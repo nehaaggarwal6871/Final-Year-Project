@@ -1,7 +1,7 @@
 
 import 'package:firebase/services/addevent.dart';
 import 'package:firebase/user_dashboard.dart';
-import 'file:///Users/neha/AndroidStudioProjects/ITS-College-Event-App-master/lib/past_events.dart';
+import 'past_events.dart';
 
 import 'package:firebase_auth/firebase_auth.dart';
 
