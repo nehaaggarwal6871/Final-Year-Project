@@ -2,13 +2,13 @@
 cloud_firestore=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.11/
 firebase_auth=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.14.0+9/
 firebase_core=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.2+2/
-google_sign_in=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.5.4/
+google_sign_in=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.5.5/
 google_sign_in_web=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.9.2/
-path_provider=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.18/
+path_provider=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.21/
 path_provider_linux=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2/
 path_provider_macos=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+4/
 path_provider_windows=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+1/
-url_launcher=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.2/
+url_launcher=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.4/
 url_launcher_linux=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-0.0.1+1/
 url_launcher_macos=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+8/
 url_launcher_web=/Users/neha/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.4+1/

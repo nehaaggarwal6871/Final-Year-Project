@@ -9,6 +9,6 @@ import 'package:flutter/material.dart';
 void main() => runApp(MaterialApp(
   title: "ITS Event App",
   debugShowCheckedModeBanner: false,
-  home: SignUpPage(),
+  home: LoginPage(),
 ));
 
